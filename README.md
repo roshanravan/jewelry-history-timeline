@@ -315,42 +315,179 @@ This guide navigates the intricate tapestry of jewelry history, exploring its ic
 - Neoclassical Revivals (cameos, micro-mosaics)  
 
 ---
-
-## Mind Map Visualization
+## Mind Map of Jewelry Eras & Traditions
 
 ```mermaid
 mindmap
-  root((Jewelry Eras & Traditions))
+  root((Jewelry Eras & Global Traditions))
     Western Timeline
-      Ancient & Early Civilizations
-      Classical Empires
-      Medieval & Renaissance
-      Baroque–Georgian
-      Victorian
-      Artistic Movements
-      Modern Eras
-    Global Traditions
+      Prehistoric & Bronze/Iron Age (40,000–800 BCE)
+        Iconic features
+          Shell/stone/amber beads
+          Bone/ivory pendants
+          Hammered native gold/copper
+          Early casting
+          Spiral wire
+        Forms
+          Torcs
+          Lunulae
+          Amulets
+        Notes
+          Baltic amber trade
+          Earliest granulation experiments
+      Ancient Mesopotamia & Levant (3000–539 BCE)
+        Techniques
+          Lost-wax casting
+          Filigree & granulation
+          Headdresses (Queen Puabi)
+          Spiral earrings
+          Cylinder-seal pendants
+      Ancient Egypt (2686–1069 BCE)
+        Broad/usekh collars
+        Pectorals & signet rings
+        Scarabs, lotuses, falcons
+        High-karat gold, electrum, glass inlays
+      Aegean: Minoan & Mycenaean (2000–1100 BCE)
+        Granulation, filigree, repoussé
+        Motifs: bees, bulls, nature/myth
+    Classical World & Empires
+      Greek (700–31 BCE)
+        Wreath diadems, Herakles knots
+        Amphora charms, Eros/bee motifs
+        Fibulae, intaglios, cameos
+      Etruscans (700–300 BCE)
+        Microscopic granulation & filigree
+        Bulla pendants, boat earrings
+      Roman (300 BCE–476 CE)
+        Signet rings
+        Intaglios, cameos
+        Snake motifs, chain work
+      Byzantine (330–1453)
+        Christian iconography
+        Cloisonné enamel, pearls
+        Cross pendants, reliquary jewelry
+      Early Islamic (661–1517)
+        Filigree, arabesques, calligraphy
+        Rock crystal (Fatimid)
+    Medieval & Renaissance
+      Romanesque (1000–1150)
+        Reliquaries, symbolic crosses
+      Gothic (1150–1500)
+        Devotional badges
+        Heart/fede motifs
+        Posy rings
+      Renaissance (1400–1600)
+        Enamelled goldwork
+        Baroque pearls
+        Table/pointed diamonds
+        Benvenuto Cellini
+    Baroque–Georgian
+      Baroque (1600–1720)
+        En tremblant sprays
+        Bodice ornaments
+        Girandole earrings
+      Rococo (1720–1770)
+        Asymmetry, C-scrolls
+        Chatelaines, portrait miniatures
+      Neoclassical (1760–1800)
+        Cameos, intaglios, micro-mosaics
+        Tassels & parures
+      Georgian (1714–1837)
+        Closed-back foiled settings
+        Mourning hair jewels
+        Giardinetti motifs
+    Victorian (1837–1901)
+      Early/Romantic
+        Serpents, hearts, turquoise
+        Hairwork & lockets
+      Grand/High
+        Jet, onyx, black enamel
+        Revival styles (Etruscan, Gothic)
+        Castellani, Giuliano
+      Late/Aesthetic
+        Japonisme, star-set gems, crescents
+        Diamond engagement ring
+    Artistic Movements (1880–1915)
+      Arts & Crafts
+        Cabochons, hammered finish
+        Liberty & Co., Ashbee
+      Art Nouveau
+        Whiplash lines
+        Dragonflies, orchids
+        Lalique, Fouquet
+      Belle Époque / Edwardian
+        Platinum lace-like designs
+        Cartier, Chaumet, Fabergé
+    Modern Eras (1918–present)
+      Art Deco (1918–1939)
+        Geometry, calibré cuts
+        Tutti Frutti, Tutankhamun trend
+      Retro / WWII (1935–1950)
+        Bold scrolls, tank bracelets
+        Rose/yellow gold
+      Mid-Century Modern (1950–1970)
+        Textured gold, pearls, coral
+        Buccellati, David Webb
+      Studio/Modernist & Scandinavian
+        Silver prominence, biomorphic forms
+        Georg Jensen, Calder, De Patta
+      Space-Age / Pop (1960s–70s)
+        Resin, op-art, turquoise/shell
+        VCA Alhambra, Piaget dials
+      Postmodern (1980s–90s)
+        Maximalist gold, logos, bold chains
+        Bulgari, Chanel, Chopard
+      Contemporary (2000–present)
+        Titanium, carbon fiber, lab-grown diamonds
+        JAR, Wallace Chan, Cindy Chao
+    Parallel Global Traditions
       South Asia
+        Gandharan (1st–5th c.): Hellenistic influence
+        Mughal (1526–1858): kundan, meenakari, polki, sarpech
+        Raj to Present: navaratna, Gem Palace, Viren Bhagat
       Persia / Iran
-      Ottoman
-      China
-      Japan
-      Korea
+        Safavid: turquoise, rubies, floral enamels
+        Qajar: polychrome plaques, bird & rose motifs
+      Ottoman Empire
+        Turban aigrettes, emerald & diamond sets
+        Istanbul workshops
+      Imperial China
+        Jade, kingfisher feather inlay, cloisonné
+        Court ornaments & headdresses
+      Japan (Edo–Meiji–Taishō)
+        Shakudō, shibuichi, kanzashi hairpins
+        Minimalist gold, lacquer-metal artistry
+      Korea (Joseon)
+        Gilded silver, jade, coral
       Pre-Columbian Americas
+        Mesoamerica: jadeite, mosaic masks, turquoise inlay
+        Andean: gold, tumbaga, repoussé ornaments
       Africa
+        Nubia/Kush: high-karat gold
+        Asante: cast gold regalia
+        Berber/Tuareg: silver, niello, enamel
+        Ethiopia: filigree, processional crosses
+        Yoruba/Fulani: oversized gold earrings, beadwork
       Russian Imperial
+        Fabergé, Bolin, Khlebnikov
       Iberian & Colonial
-      Native American
+        Portuguese/Spanish filigree hearts
+        Colonial Latin America & Philippines: filigree devotions
+      Native American Southwest
+        Navajo silver & turquoise
+        Zuni inlay, Hopi overlay
+        Squash blossom necklaces, concho belts
     Cuts & Settings
-      Table/Rose
-      Old Mine
-      Old European
-      Brilliant
-      Calibré
-      Millegrain/Knife-edge
-      Mystery Set
+      Table & Rose cuts
+      Old Mine cut
+      Old European cut
+      Brilliant cut (Tolkowsky, 1919–)
+      Calibré & baguettes (Art Deco)
+      Millegrain/knife-edge (Edwardian)
+      Mystery Set (VCA, 1933)
     Revival Movements
-      Archaeological
-      Egyptian
-      Gothic/Renaissance
-      Neoclassical
+      Archaeological (Castellani, Giuliano)
+      Egyptian (1800s, 1920s)
+      Renaissance/Gothic (Victorian)
+      Neoclassical (cameos, mosaics)
+
