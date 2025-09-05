@@ -225,7 +225,80 @@ This guide navigates the intricate tapestry of jewelry history, exploring its ic
 
 ## Parallel Global Traditions
 
-*(collapsibles for South Asia, Persia, Ottoman, China, Japan, Korea, Pre-Columbian Americas, Africa, Russian Imperial, Iberian/Colonial, Native American — keep same structure as before)*
+<details>
+<summary><b>South Asia</b></summary>
+- **Gandharan (1st–5th c.):** Hellenistic influence, gold sheet, granulation  
+- **Mughal (1526–1858):** Kundan (foil-back) setting, jadau work, polki diamonds, meenakari enamel, carved emeralds/rubies  
+- **Forms:** Turban aigrettes (*sarpech*), navaratna jewels, courtly regalia  
+- **Legacy:** Kasliwal family (The Gem Palace), contemporary Viren Bhagat  
+</details>
+
+<details>
+<summary><b>Persia / Iran</b></summary>
+- **Safavid (1501–1736):** Turquoise, rubies, floral enamels  
+- **Qajar (1789–1925):** Polychrome enamel plaques with bird/rose motifs, turquoise-set silver  
+- **Modern:** Continuation of enamel traditions in contemporary Persian jewelry  
+</details>
+
+<details>
+<summary><b>Ottoman Empire (1299–1922)</b></summary>
+- **Forms:** Turban aigrettes, emerald & diamond ensembles, gem-studded yatagan hilts  
+- **Features:** Intricate filigree, Istanbul court workshops  
+</details>
+
+<details>
+<summary><b>Imperial China (Han–Qing, 206 BCE – 1912)</b></summary>
+- **Materials:** Jade (nephrite/jadeite), kingfisher feather inlay (*tian-tsui*), cloisonné enamel  
+- **Forms:** Court hair ornaments (*zan*), elaborate headdresses  
+- **Modern:** Revival of jadeite & coral, Lao Feng Xiang  
+</details>
+
+<details>
+<summary><b>Japan (Edo–Meiji–Taishō, 1603–1926)</b></summary>
+- **Techniques:** Mixed-metal inlay (*shakudō*, *shibuichi*), chasing, lacquer work  
+- **Forms:** Kanzashi hair ornaments, export jewelry of Meiji era  
+- **Modern:** Minimalist gold, crossover lacquer-metal artistry  
+</details>
+
+<details>
+<summary><b>Korea (Joseon, 1392–1897)</b></summary>
+- **Features:** Gilded silver, coral, jade  
+- **Forms:** Hairpins and ornaments with auspicious motifs  
+</details>
+
+<details>
+<summary><b>Pre-Columbian Americas</b></summary>
+- **Mesoamerica (Olmec–Maya–Aztec):** Jadeite earspools, mosaic masks, turquoise inlay  
+- **Andean (Moche–Sican–Inca):** High-karat gold, tumbaga alloys, repoussé nose ornaments & pectorals  
+</details>
+
+<details>
+<summary><b>Africa</b></summary>
+- **Nubia/Kush:** High-karat gold, granulation, Egyptian influence  
+- **Asante (Ghana):** Gold regalia, cast weights  
+- **Berber/Tuareg (Maghreb/Sahel):** Silver with niello, enamel  
+- **Ethiopia:** Filigree, processional crosses  
+- **Yoruba/Fulani:** Oversized gold earrings, beadwork  
+</details>
+
+<details>
+<summary><b>Russian Imperial (1850–1917)</b></summary>
+- **Features:** Guilloché enamel, hardstone carving, diamond/colored stone refinement  
+- **Makers:** Fabergé, Bolin, Khlebnikov  
+</details>
+
+<details>
+<summary><b>Iberian & Colonial (17th–19th c.)</b></summary>
+- **Forms:** Portuguese/Spanish filigree hearts (Viana), chrysoberyl & diamond sprays  
+- **Colonial Latin America & Philippines:** Regional filigree devotions, lacy gold & silver work  
+</details>
+
+<details>
+<summary><b>Native American Southwest (1860 – present)</b></summary>
+- **Traditions:** Navajo silver & turquoise, Zuni inlay, Hopi overlay  
+- **Forms:** Squash blossom necklaces, ketoh bracelets, concho belts  
+</details>
+
 
 ---
 
